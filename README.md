@@ -11,7 +11,7 @@ I pledge that this module, to the best of my knowledge and skills, does not do a
 In your main file simply include the module :
 
 
-#### ES6 Example useage
+#### ES6 Example usage
 
 ```js
 
@@ -24,7 +24,7 @@ console.log(whatWeWant);
 see the example in `test.js`
 
 
-#### ES5 / CJS Example useage
+#### ES5 / CJS Example usage
 
 ```js
 
